@@ -40,8 +40,12 @@ features                                  :
     fontawesome_icon_name                 : heart
 
   - title                                 : Create your own Workouts
-    description                           : Create your own Workouts from outr list of exercises. Use our in-app timer to train.
+    description                           : Create your own Workouts from our list of exercises.
     fontawesome_icon_name                 : dumbbell
+
+  - title                                 : Timer
+    description                           : Use our in-app timer to train.
+    fontawesome_icon_name                 : clock
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
